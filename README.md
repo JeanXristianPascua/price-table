@@ -23,8 +23,3 @@ This project is a simple and elegant web page that displays different pricing pl
 1. Open `index.html` in a web browser to view the pricing plans.
 2. Modify the `app.css` file to change styles or adjust the layout as needed.
 3. Update the `index.html` file to add more features or modify existing ones.
-
-## Future Enhancements
-- Add JavaScript for dynamic interactions.
-- Integrate with a backend to handle user sign-ups.
-- Add more pricing plans or customize existing ones further.
